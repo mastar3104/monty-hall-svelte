@@ -1,0 +1,24 @@
+{
+  "name": "monty-hall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "view": "rm -rf .parcel-cache && parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.8.1",
+    "svelte": "^3.59.1",
+    "svelte-material-ui": "^7.0.0-beta.8"
+  },
+  "devDependencies": {
+    "@smui/button": "^7.0.0-beta.8",
+    "@smui/dialog": "^7.0.0-beta.8",
+    "@smui/layout-grid": "^7.0.0-beta.8",
+    "parcel-plugin-svelte": "^4.0.8",
+    "smui-theme": "^7.0.0-beta.8"
+  }
+}
