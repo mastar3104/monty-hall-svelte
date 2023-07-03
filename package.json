@@ -1,13 +1,13 @@
 {
   "name": "monty-hall",
   "version": "1.0.0",
-  "description": "",
+  "description": "モンティーホール問題を遊べる",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "view": "rm -rf .parcel-cache && parcel index.html"
   },
-  "author": "",
+  "author": "mastar3104",
   "license": "ISC",
   "dependencies": {
     "parcel-bundler": "^1.8.1",
